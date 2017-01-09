@@ -1,0 +1,4 @@
+
+enum Casilla {
+LIBRE,JUGADOR1,JUGADOR2;
+}
